@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahima0711/DSA2025/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -13,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahima0711/DSA2025/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahima0711/DSA2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahima0711/DSA2025/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |

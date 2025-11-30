@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

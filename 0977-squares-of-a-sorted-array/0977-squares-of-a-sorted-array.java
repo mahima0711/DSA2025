@@ -1,10 +1,19 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        for(int i=0;i<nums.length;i++)
-        {
-            nums[i] = nums[i]*nums[i];
+        var increment = 0;
+        var decrement = nums.length - 1;
+        
+        var result = new int[nums.length];
+        
+        while (increment <= decrement) {
+            if (nums[increment] * nums[increment] > nums[decrement] * nums[decrement]) {
+                result[decrement-increment] = nums[increment] * nums[increment];
+                increment++;
+            }  else {
+                result[decrement-increment] = nums[decrement] * nums[decrement];
+                decrement--;
+            }
         }
-        Arrays.sort(nums);
-        return nums;
+        return result;
     }
 }

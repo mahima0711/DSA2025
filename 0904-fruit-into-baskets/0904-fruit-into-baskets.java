@@ -10,9 +10,7 @@ class Solution {
 
         for(int high=0;high<fruits.length;high++)
         {
-           if(!map.containsKey(fruits[high]))
-           {
-             map.put(fruits[high], 1);
+             map.put(fruits[high], map.getOrDefault(fruits[high],0)+1);
 
              while(map.size()>2)
              {
@@ -23,11 +21,7 @@ class Solution {
                     map.remove(fruits[low]);
                 }
                 low++;
-             }
-           }
-           else
-           {
-             map.put(fruits[high], map.get(fruits[high])+1);
+             
            }
 
            len =high-low+1;

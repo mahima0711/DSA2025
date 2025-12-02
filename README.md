@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahima0711/DSA2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/0643-maximum-average-subarray-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima0711/DSA2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima0711/DSA2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahima0711/DSA2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |

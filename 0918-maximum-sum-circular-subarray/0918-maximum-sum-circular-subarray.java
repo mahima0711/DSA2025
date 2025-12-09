@@ -5,16 +5,12 @@ class Solution {
         int maxEnding=nums[0];
         int maxSum =nums[0];
         int minSum =nums[0];
-        int sum =0;
+        int sum = nums[0];
         int res=nums[0];
-
-        for(int i=0; i <nums.length;i++)
-        {
-          sum = sum+nums[i];
-        }
 
         for(int i=1;i<nums.length;i++)
         {
+            sum = sum+nums[i];
             maxEnding = Math.max(nums[i], nums[i]+maxEnding);
             maxSum = Math.max(maxSum, maxEnding);
 

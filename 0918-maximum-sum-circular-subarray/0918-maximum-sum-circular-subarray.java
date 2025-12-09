@@ -17,13 +17,10 @@ class Solution {
             minEnding = Math.min(nums[i], minEnding + nums[i]);
             minSum = Math.min(minEnding, minSum);
 
-            res = Math.max(maxSum, sum-minSum);
-
-            System.out.println(maxSum + " "+minSum +" "+res);
         }
         if (maxSum < 0) {
             return maxSum;  // only non-empty subarray is allowed
         }
-        return res;
+        return Math.max(maxSum, sum-minSum);
     }
 }

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahima0711/DSA2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mahima0711/DSA2025/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima0711/DSA2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/mahima0711/DSA2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahima0711/DSA2025/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -143,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->

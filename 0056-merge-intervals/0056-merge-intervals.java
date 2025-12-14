@@ -23,15 +23,15 @@ class Solution {
                 continue;
             }
              
-             int[] arr={start1,end1};
-            merged.add(arr);
+            //int[] arr={start1,end1};
+            merged.add(new int[]{start1, end1});
 
             start1 = start2;
             end1 = end2;
         }
 
-        int[] arr={start1,end1};
-            merged.add(arr);
+        //int[] arr={start1,end1};
+        merged.add(new int[]{start1, end1});
         return merged.toArray(new int[merged.size()][]);
 
         // if(intervals.length == 0)

@@ -17,12 +17,11 @@ class Solution {
                 }
                 else
                 {
-                    if(s.charAt(i) == '}' && stack.peek() == '{')
+                    if(s.charAt(i) == '}' && stack.peek() == '{' || s.charAt(i) == ']' && stack.peek() == '['
+                    || s.charAt(i) == ')' && stack.peek() == '(')
+                    {
                         stack.pop();
-                    else if(s.charAt(i) == ']' && stack.peek() == '[')
-                        stack.pop();
-                    else if(s.charAt(i) == ')' && stack.peek() == '(')
-                        stack.pop();
+                    }
                     else
                     {
                        stack.push(s.charAt(i));

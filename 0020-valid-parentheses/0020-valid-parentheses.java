@@ -31,9 +31,6 @@ class Solution {
             }
         }
 
-        if(!stack.empty())
-           return false;
-        else
-           return true;
+        return stack.empty();
     }
 }

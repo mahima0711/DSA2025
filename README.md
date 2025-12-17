@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mahima0711/DSA2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mahima0711/DSA2025/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mahima0711/DSA2025/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mahima0711/DSA2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mahima0711/DSA2025/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mahima0711/DSA2025/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahima0711/DSA2025/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |

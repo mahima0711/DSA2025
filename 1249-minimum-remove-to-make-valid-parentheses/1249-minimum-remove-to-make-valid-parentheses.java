@@ -30,25 +30,15 @@ class Solution {
             }
         }
 
-        count1 = 0;
-        count2 = 0;
+        int openToRemove = count1 - count2;
 
         StringBuilder ans = new StringBuilder();
-
         for (int i = str.length() - 1; i >= 0; i--) {
-            if (str.charAt(i) == '(') {
-                count1++;
-                if (count2 >= count1) {
-                    ans.append(str.charAt(i));
-                } else {
-                    count1--;
-                }
-            } else if (str.charAt(i) == ')') {
-                count2++;
-                ans.append(str.charAt(i));
-            } else {
-                ans.append(str.charAt(i));
+            char c = str.charAt(i);
+            if (c == '(' && openToRemove-- > 0) {
+                continue;
             }
+            ans.append(c);
         }
 
         return ans.reverse().toString();

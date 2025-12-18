@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahima0711/DSA2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/mahima0711/DSA2025/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mahima0711/DSA2025/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mahima0711/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
 ## Dynamic Programming
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/mahima0711/DSA2025/tree/master/0682-baseball-game) |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mahima0711/DSA2025/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mahima0711/DSA2025/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/mahima0711/DSA2025/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/mahima0711/DSA2025/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mahima0711/DSA2025/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mahima0711/DSA2025/tree/master/0955-delete-columns-to-make-sorted-ii) |

@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahima0711/DSA2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mahima0711/DSA2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mahima0711/DSA2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |

@@ -1,24 +1,17 @@
 class Solution {
     public int minOperations(String[] logs) {
         
-        Stack<String> stack = new Stack<>();
-
+    int count = 0;
         for(int i=0;i<logs.length;i++)
         {
-            if(logs[i].equals("../") && !stack.isEmpty())
-            {
-                stack.pop();
-            }
-            else if(logs[i].equals("./"))
-            {
-               continue;
-            }
-            else if(!logs[i].equals("../"))
-            {
-                stack.push(logs[i]);
+            if( logs[i].equals("../")){
+                if(count > 0){
+                    count--;
+                }
+            }else if(!logs[i].equals("./")){
+                count++;
             }
         }
-
-        return stack.size();
+        return count;
     }
 }

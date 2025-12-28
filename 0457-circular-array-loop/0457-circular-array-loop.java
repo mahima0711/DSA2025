@@ -15,61 +15,41 @@ class Solution {
 
     public boolean circularArrayLoop(int[] nums) {
 
-    for(int i=0; i< nums.length;i++)
-    {
-        int slow = i;
-        int fast = i;
+        for (int i = 0; i < nums.length; i++) {
+            int slow = i;
+            int fast = i;
 
-        boolean isPos = nums[slow] > 0;
+            boolean isPos = nums[slow] > 0;
 
-        while (true) {
-            slow = calculateNextIdx(nums, slow);
-
-            if (isPos) {
-                if (nums[slow] < 0)
-                    break;
-            }
-            else
-            {
-                 if (nums[fast] > 0)
-                    break;
-            }
-
-            fast = calculateNextIdx(nums, fast);
-
-            if (isPos) {
-                if (nums[fast] < 0)
-                    break;
-            }
-            else
-            {
-                 if (nums[fast] > 0)
-                    break;
-            }
-
-            fast = calculateNextIdx(nums, fast);
-
-            if (isPos) {
-                if (nums[fast] < 0)
-                    break;
-            }
-            else
-            {
-                 if (nums[fast] > 0)
-                    break;
-            }
-
-            if (slow == fast) {
-                if (slow == calculateNextIdx(nums, slow))
+            while (true) {
+                // move slow
+                slow = calculateNextIdx(nums, slow);
+                if ((nums[slow] > 0) != isPos)
                     break;
 
-                return true;
+                // move fast 1 step
+                fast = calculateNextIdx(nums, fast);
+                if ((nums[fast] > 0) != isPos)
+                    break;
+
+                // move fast 2nd step
+                fast = calculateNextIdx(nums, fast);
+                if ((nums[fast] > 0) != isPos)
+                    break;
+
+                // meeting point
+                if (slow == fast) {
+                    // ensure not 1-element loop
+                    if (slow == calculateNextIdx(nums, slow))
+                        break;
+
+                    return true;
+
+                }
             }
- 
+
         }
-    }
 
         return false;
-
     }
 }

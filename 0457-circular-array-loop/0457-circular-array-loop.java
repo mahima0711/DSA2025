@@ -5,74 +5,71 @@ class Solution {
 
         int seq = nums[curr];
 
-        if (seq > 0) {
-            next = (next + seq) % nums.length;
-        } else {
-            int mod = seq % nums.length;
-            int forward = nums.length + mod;
+        next = (curr + seq) % nums.length;
 
-            next = (curr + forward) % nums.length;
-        }
+        if (next < 0)
+            next = next + nums.length;
 
         return next;
     }
 
     public boolean circularArrayLoop(int[] nums) {
 
-        for (int i = 0; i < nums.length; i++) {
-            Set<Integer> set = new HashSet<>();
-            set.add(i);
-            boolean isPos = nums[i] > 0;
+    for(int i=0; i< nums.length;i++)
+    {
+        int slow = i;
+        int fast = i;
 
-            int curr = i;
+        boolean isPos = nums[slow] > 0;
 
-            while (true) {
+        while (true) {
+            slow = calculateNextIdx(nums, slow);
 
-                int next = calculateNextIdx(nums, curr);
-                if (isPos) {
-                    if (nums[next] < 0)
-                    {
-                        break;
-                    }else
-                    {
-                    if(set.contains(next)) {
-                        //cycle is there
-
-                        //k>1
-                        if (curr != next) {
-                            return true;
-                        } else {
-                            break;
-                        }
-                    }
-
-                    set.add(next);
-                    }
-
-                } else {
-                    if (nums[next] > 0)
-                    {
-                        break;
-                        
-                    } else{ if(set.contains(next)) {
-                        //cycle is there
-
-                        //k>1
-                        if (curr != next) {
-                            return true;
-                        } else {
-                            break;
-                        }
-                    }
-
-                    set.add(next);
-                    }
-                }
-
-                 curr = next; 
+            if (isPos) {
+                if (nums[slow] < 0)
+                    break;
             }
+            else
+            {
+                 if (nums[fast] > 0)
+                    break;
+            }
+
+            fast = calculateNextIdx(nums, fast);
+
+            if (isPos) {
+                if (nums[fast] < 0)
+                    break;
+            }
+            else
+            {
+                 if (nums[fast] > 0)
+                    break;
+            }
+
+            fast = calculateNextIdx(nums, fast);
+
+            if (isPos) {
+                if (nums[fast] < 0)
+                    break;
+            }
+            else
+            {
+                 if (nums[fast] > 0)
+                    break;
+            }
+
+            if (slow == fast) {
+                if (slow == calculateNextIdx(nums, slow))
+                    break;
+
+                return true;
+            }
+ 
         }
+    }
 
         return false;
+
     }
 }

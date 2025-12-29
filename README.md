@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/mahima0711/DSA2025/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/mahima0711/DSA2025/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mahima0711/DSA2025/tree/master/0944-delete-columns-to-make-sorted) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mahima0711/DSA2025/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahima0711/DSA2025/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mahima0711/DSA2025/tree/master/0682-baseball-game) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/mahima0711/DSA2025/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahima0711/DSA2025/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahima0711/DSA2025/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |

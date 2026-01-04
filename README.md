@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/mahima0711/DSA2025/tree/master/0986-interval-list-intersections) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/mahima0711/DSA2025/tree/master/1390-four-divisors) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahima0711/DSA2025/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahima0711/DSA2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
+| [1390-four-divisors](https://github.com/mahima0711/DSA2025/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mahima0711/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
 ## Dynamic Programming

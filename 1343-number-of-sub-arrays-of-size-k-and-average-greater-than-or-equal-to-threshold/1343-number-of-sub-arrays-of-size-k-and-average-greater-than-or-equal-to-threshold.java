@@ -7,13 +7,14 @@ class Solution {
 
         for(int right =0;right<arr.length;right++)
         {
-            sum = sum +arr[right];
 
             while(right - left +1 > k)
             {
                 sum = sum - arr[left];
                 left++;
             }
+            
+              sum = sum +arr[right];
 
             if(right - left +1 == k)
             {

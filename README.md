@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/mahima0711/DSA2025/tree/master/3169-count-days-without-meetings) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mahima0711/DSA2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
+| [3169-count-days-without-meetings](https://github.com/mahima0711/DSA2025/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |

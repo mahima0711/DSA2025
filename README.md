@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahima0711/DSA2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahima0711/DSA2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/mahima0711/DSA2025/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahima0711/DSA2025/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mahima0711/DSA2025/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

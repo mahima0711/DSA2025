@@ -8,7 +8,6 @@ public class Solution extends VersionControl {
         int high =n;
 
         int mid =0;
-        int ans =-1;
 
         while(low<=high)
         {
@@ -16,7 +15,6 @@ public class Solution extends VersionControl {
 
             if(isBadVersion(mid))
             {
-                ans = mid;
                 high = mid-1;
             }
             else
@@ -25,6 +23,6 @@ public class Solution extends VersionControl {
             }
         }
 
-        return ans;
+        return low;
     }
 }

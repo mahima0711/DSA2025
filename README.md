@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mahima0711/DSA2025/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahima0711/DSA2025/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/mahima0711/DSA2025/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mahima0711/DSA2025/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mahima0711/DSA2025/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

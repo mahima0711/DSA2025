@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mahima0711/DSA2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahima0711/DSA2025/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahima0711/DSA2025/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/mahima0711/DSA2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahima0711/DSA2025/tree/master/0057-insert-interval) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahima0711/DSA2025/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mahima0711/DSA2025/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |

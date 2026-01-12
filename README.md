@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mahima0711/DSA2025/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mahima0711/DSA2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahima0711/DSA2025/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/mahima0711/DSA2025/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mahima0711/DSA2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahima0711/DSA2025/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/mahima0711/DSA2025/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahima0711/DSA2025/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

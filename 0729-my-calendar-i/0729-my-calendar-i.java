@@ -1,39 +1,31 @@
 class MyCalendar {
 
-    Map<Integer, Integer> map;
+    boolean overLap(int[] booking, int start, int end) {
+        return Math.max(booking[0], start) < Math.min(booking[1], end);
+    }
+
+    List<int[]> bookings;
 
     public MyCalendar() {
-        
-                map = new TreeMap<>();
+
+        bookings = new ArrayList<>();
     }
-    
+
     public boolean book(int startTime, int endTime) {
-        map.put(startTime, map.getOrDefault(startTime, 0) + 1);
-        map.put(endTime, map.getOrDefault(endTime, 0) - 1);
 
-        int curr = 0;
-
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            curr += entry.getValue();
-
-            if (curr >= 2) {
-                map.put(startTime, map.get(startTime) - 1);
-
-                if (map.get(startTime) == 0) {
-                    map.remove(startTime);
-                }
-
-                map.put(endTime, map.get(endTime) + 1);
-                
-                if (map.get(endTime) == 0) {
-                    map.remove(endTime);
-                }
+        for (int i = 0; i < bookings.size(); i++) {
+            if (overLap(bookings.get(i), startTime, endTime)) {
                 return false;
             }
         }
 
+        bookings.add(new int[] {
+                startTime,
+                endTime
+        });
 
         return true;
+
     }
 }
 

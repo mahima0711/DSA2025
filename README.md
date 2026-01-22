@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mahima0711/DSA2025/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mahima0711/DSA2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
 ## Greedy
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mahima0711/DSA2025/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mahima0711/DSA2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mahima0711/DSA2025/tree/master/2487-remove-nodes-from-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mahima0711/DSA2025/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mahima0711/DSA2025/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mahima0711/DSA2025/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mahima0711/DSA2025/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/mahima0711/DSA2025/tree/master/0732-my-calendar-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -486,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mahima0711/DSA2025/tree/master/0295-find-median-from-data-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

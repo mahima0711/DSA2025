@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mahima0711/DSA2025/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/mahima0711/DSA2025/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mahima0711/DSA2025/tree/master/0944-delete-columns-to-make-sorted) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/mahima0711/DSA2025/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
 | ------- |

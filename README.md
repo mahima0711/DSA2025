@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mahima0711/DSA2025/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mahima0711/DSA2025/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mahima0711/DSA2025/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mahima0711/DSA2025/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahima0711/DSA2025/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |

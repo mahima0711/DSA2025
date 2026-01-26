@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mahima0711/DSA2025/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mahima0711/DSA2025/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mahima0711/DSA2025/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahima0711/DSA2025/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1405-longest-happy-string](https://github.com/mahima0711/DSA2025/tree/master/1405-longest-happy-string) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mahima0711/DSA2025/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mahima0711/DSA2025/tree/master/2558-take-gifts-from-the-richest-pile) |

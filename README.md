@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahima0711/DSA2025/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/mahima0711/DSA2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/mahima0711/DSA2025/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/mahima0711/DSA2025/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahima0711/DSA2025/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/mahima0711/DSA2025/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/mahima0711/DSA2025/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mahima0711/DSA2025/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/mahima0711/DSA2025/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mahima0711/DSA2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mahima0711/DSA2025/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mahima0711/DSA2025/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahima0711/DSA2025/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mahima0711/DSA2025/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
 ## Line Sweep
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mahima0711/DSA2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |

@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/mahima0711/DSA2025/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mahima0711/DSA2025/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/mahima0711/DSA2025/tree/master/0704-binary-search) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/mahima0711/DSA2025/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |

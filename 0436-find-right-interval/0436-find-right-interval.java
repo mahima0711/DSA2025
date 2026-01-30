@@ -1,29 +1,33 @@
 class Solution {
     public int[] findRightInterval(int[][] intervals) {
-        
-        int n=intervals.length;
+
+        int n = intervals.length;
         int ans[] = new int[n];
 
-        for(int i=0;i<n;i++)
-        {
+        PriorityQueue<int[]> minStart = new PriorityQueue<>(
+                (a, b) -> a[0] - b[0]);
+
+        PriorityQueue<int[]> minEnd = new PriorityQueue<>(
+                (a, b) -> a[0] - b[0]);
+
+        for (int i = 0; i < n; i++) {
             ans[i] = -1;
+            minStart.add(new int[] { intervals[i][0], i });
+            minEnd.add(new int[] { intervals[i][1], i });
+
         }
 
-        for(int i=0;i<n;i++)
-        {
-            int minIdx = -1;
-            int minVal=Integer.MAX_VALUE;
-            for(int j=0;j<n;j++)
-            {
-                if(intervals[j][0] >= intervals[i][1])
-                {
-                    if(intervals[j][0] <= minVal)
-                    {
-                        ans[i] = j;
-                        minVal = intervals[j][0];
-                    }
-                }
-                
+        while (!minStart.isEmpty() && !minEnd.isEmpty()) {
+            int[] startEle = minStart.peek();
+
+            int start = startEle[0];
+            int startIdx = startEle[1];
+
+            if (start >= minEnd.peek()[0]) {
+                ans[minEnd.peek()[1]] = startIdx;
+                minEnd.poll();
+            } else {
+                minStart.poll();
             }
         }
 

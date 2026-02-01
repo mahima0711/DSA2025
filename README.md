@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mahima0711/DSA2025/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mahima0711/DSA2025/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3169-count-days-without-meetings](https://github.com/mahima0711/DSA2025/tree/master/3169-count-days-without-meetings) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/mahima0711/DSA2025/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/mahima0711/DSA2025/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mahima0711/DSA2025/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mahima0711/DSA2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3169-count-days-without-meetings](https://github.com/mahima0711/DSA2025/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mahima0711/DSA2025/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
 | ------- |

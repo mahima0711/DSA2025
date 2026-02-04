@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/mahima0711/DSA2025/tree/master/0525-contiguous-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/mahima0711/DSA2025/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mahima0711/DSA2025/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mahima0711/DSA2025/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |

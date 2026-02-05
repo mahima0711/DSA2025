@@ -10,50 +10,33 @@
  */
 class Solution {
 
-   public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) {
-            return null;
-        }
-        return merge(lists, 0, lists.length - 1);
-    }
+    public ListNode mergeKLists(ListNode[] lists) {
 
-    private ListNode merge(ListNode[] lists, int start, int end) {
-        if (start == end) {
-            return lists[start];
-        }
-        if (start > end) {
-            return null;
-        }
-        
-        int mid = start + (end - start) / 2;
-        ListNode l1 = merge(lists, start, mid);
-        ListNode l2 = merge(lists, mid + 1, end);
-        
-        return mergeTwoLists(l1, l2);
-    }
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(
+                (a, b) -> a.val - b.val);
 
-    private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode dummyHead = new ListNode(0);
-        ListNode current = dummyHead;
-        
-        while (l1 != null && l2 != null) {
-            if (l1.val < l2.val) {
-                current.next = l1;
-                l1 = l1.next;
-            } else {
-                current.next = l2;
-                l2 = l2.next;
+        // add all list heads
+        for (ListNode node : lists) {
+            if (node != null) {
+                pq.add(node);
             }
-            current = current.next;
         }
-        
-        if (l1 != null) {
-            current.next = l1;
-        } else {
-            current.next = l2;
+
+        ListNode dummy = new ListNode(0);
+        ListNode tail = dummy;
+
+         while (!pq.isEmpty()) {
+
+            ListNode minNode = pq.poll();
+
+            tail.next = minNode;
+            tail = tail.next;
+
+            if (minNode.next != null) {
+                pq.add(minNode.next);
+            }
         }
-        
-        return dummyHead.next;
-    
+        return dummy.next;
     }
+
 }

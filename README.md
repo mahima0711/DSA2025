@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mahima0711/DSA2025/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mahima0711/DSA2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima0711/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/mahima0711/DSA2025/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mahima0711/DSA2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/mahima0711/DSA2025/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |

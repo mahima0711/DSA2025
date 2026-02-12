@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/mahima0711/DSA2025/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mahima0711/DSA2025/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/mahima0711/DSA2025/tree/master/2938-separate-black-and-white-balls) |
+| [3713-longest-balanced-substring-i](https://github.com/mahima0711/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mahima0711/DSA2025/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mahima0711/DSA2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/mahima0711/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mahima0711/DSA2025/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mahima0711/DSA2025/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/mahima0711/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [3583-count-special-triplets](https://github.com/mahima0711/DSA2025/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/mahima0711/DSA2025/tree/master/3713-longest-balanced-substring-i) |
 ## Line Sweep
 |  |
 | ------- |

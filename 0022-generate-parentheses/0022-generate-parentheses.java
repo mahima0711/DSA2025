@@ -5,12 +5,15 @@ class Solution {
 
         StringBuilder str = new StringBuilder();
 
-        generateSol(str, n, list);
+        int open =0;
+        int close =0;
+
+        generateSol(str, n, list, open, close);
 
         return list;
     }
 
-    void generateSol(StringBuilder str, int n, List<String> list) {
+    void generateSol(StringBuilder str, int n, List<String> list, int open, int close) {
 
         if(str.length() == 2*n) {
             if(isValid(str)) {
@@ -20,13 +23,19 @@ class Solution {
             return;
         }
 
+        if(open < n)
+        {
         str.append("(");
-        generateSol(str, n, list);
+        generateSol(str, n, list, open+1, close);
         str.deleteCharAt(str.length() - 1);
+        }
 
+        if(close<n)
+        {
         str.append(")");
-        generateSol(str, n, list);
+        generateSol(str, n, list, open, close+1);
         str.deleteCharAt(str.length() - 1);
+        }
     }
 
     boolean isValid(StringBuilder str) {

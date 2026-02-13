@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahima0711/DSA2025/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mahima0711/DSA2025/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahima0711/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mahima0711/DSA2025/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Data Stream
 |  |
@@ -668,4 +670,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mahima0711/DSA2025/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

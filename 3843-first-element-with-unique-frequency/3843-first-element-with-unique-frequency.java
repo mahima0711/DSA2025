@@ -12,22 +12,14 @@ class Solution {
         Map<Integer, Integer> count = new LinkedHashMap<>();
 
         for (Map.Entry<Integer, Integer> m: map.entrySet()) {
-            System.out.println(m.getKey() + " "+ m.getValue());
             count.put(m.getValue(), count.getOrDefault(m.getValue(), 0)+1);
         }
 
         int freq =0;
 
-        for (Map.Entry<Integer, Integer> check: count.entrySet()) {
-            if(check.getValue() == 1)
-            {
-                freq = check.getKey();
-                break;
-            }
-        }
 
         for (Map.Entry<Integer, Integer> m: map.entrySet()) {
-            if(m.getValue() == freq)
+            if(count.get(m.getValue()) == 1)
             {
                 unique = m.getKey();
                 break;

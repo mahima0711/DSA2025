@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mahima0711/DSA2025/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0151-reverse-words-in-a-string) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mahima0711/DSA2025/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mahima0711/DSA2025/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/mahima0711/DSA2025/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/mahima0711/DSA2025/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mahima0711/DSA2025/tree/master/0735-asteroid-collision) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mahima0711/DSA2025/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Data Stream

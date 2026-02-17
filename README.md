@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mahima0711/DSA2025/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/mahima0711/DSA2025/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mahima0711/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
 ## Dynamic Programming
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mahima0711/DSA2025/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2402-meeting-rooms-iii](https://github.com/mahima0711/DSA2025/tree/master/2402-meeting-rooms-iii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mahima0711/DSA2025/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3379-transformed-array](https://github.com/mahima0711/DSA2025/tree/master/3379-transformed-array) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mahima0711/DSA2025/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |

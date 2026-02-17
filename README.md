@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mahima0711/DSA2025/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/mahima0711/DSA2025/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mahima0711/DSA2025/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mahima0711/DSA2025/tree/master/0344-reverse-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mahima0711/DSA2025/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/mahima0711/DSA2025/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mahima0711/DSA2025/tree/master/0273-integer-to-english-words) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mahima0711/DSA2025/tree/master/2487-remove-nodes-from-linked-list) |
@@ -693,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mahima0711/DSA2025/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mahima0711/DSA2025/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mahima0711/DSA2025/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/mahima0711/DSA2025/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/mahima0711/DSA2025/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/mahima0711/DSA2025/tree/master/0151-reverse-words-in-a-string) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mahima0711/DSA2025/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mahima0711/DSA2025/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/mahima0711/DSA2025/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |

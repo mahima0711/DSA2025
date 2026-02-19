@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/mahima0711/DSA2025/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/mahima0711/DSA2025/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mahima0711/DSA2025/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/mahima0711/DSA2025/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/mahima0711/DSA2025/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |

@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mahima0711/DSA2025/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/mahima0711/DSA2025/tree/master/0415-add-strings) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mahima0711/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
 | [1390-four-divisors](https://github.com/mahima0711/DSA2025/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mahima0711/DSA2025/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/mahima0711/DSA2025/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mahima0711/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mahima0711/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mahima0711/DSA2025/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Data Stream

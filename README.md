@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Quickselect
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |

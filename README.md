@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
@@ -753,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mahima0711/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

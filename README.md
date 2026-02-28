@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
@@ -760,4 +763,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mahima0711/DSA2025/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

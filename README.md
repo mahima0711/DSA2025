@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/mahima0711/DSA2025/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/mahima0711/DSA2025/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mahima0711/DSA2025/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mahima0711/DSA2025/tree/master/0383-ransom-note) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Quickselect
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mahima0711/DSA2025/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/mahima0711/DSA2025/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |

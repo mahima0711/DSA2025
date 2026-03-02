@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -791,4 +794,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->

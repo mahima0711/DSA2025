@@ -18,10 +18,10 @@ class Solution {
         
         List<List<Integer>> ans = new ArrayList<>();
 
-        Queue<TreeNode> queue = new LinkedList<>();
-
         if(root == null)
          return ans;
+
+        Queue<TreeNode> queue = new LinkedList<>();
 
         queue.offer(root);
 

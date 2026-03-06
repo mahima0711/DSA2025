@@ -15,28 +15,41 @@
  */
 class Solution {
 
-    int sum=0;
+   // int sum=0;
 
     public int rangeSumBST(TreeNode root, int low, int high) {
 
-        check(root, low, high);
+        //check(root, low, high);
 
-        return sum;
-    }
+        //return sum;
 
-    void check(TreeNode root, int low, int high)
-    {
         if(root == null)
-        {
-            return;
-        }
+            return 0;
 
-        if(root.val >= low && root.val <= high)
-        {
-            sum += root.val;
-        }
+        if(root.val < low)
+            return rangeSumBST(root.right, low, high);
 
-        check(root.left, low, high);
-        check(root.right, low, high);
+        if(root.val > high)
+            return rangeSumBST(root.left, low, high);
+
+        return root.val 
+               + rangeSumBST(root.left, low, high)
+               + rangeSumBST(root.right, low, high);
     }
+
+    // void check(TreeNode root, int low, int high)
+    // {
+    //     if(root == null)
+    //     {
+    //         return;
+    //     }
+
+    //     if(root.val >= low && root.val <= high)
+    //     {
+    //         sum += root.val;
+    //     }
+
+    //     check(root.left, low, high);
+    //     check(root.right, low, high);
+    // }
 }

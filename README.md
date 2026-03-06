@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |

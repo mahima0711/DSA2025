@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mahima0711/DSA2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/mahima0711/DSA2025/tree/master/1405-longest-happy-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mahima0711/DSA2025/tree/master/3721-longest-balanced-subarray-ii) |
 ## Queue
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Quickselect
 |  |
@@ -810,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |

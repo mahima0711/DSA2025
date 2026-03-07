@@ -18,11 +18,11 @@ class Solution {
     int currNum =0;
     int currFreq = 0;
     int maxFreq = 0;
-    List<Integer> list = new ArrayList<>();
 
     public int[] findMode(TreeNode root) {
         
-        calculate(root);
+        List<Integer> list = new ArrayList<>();
+        calculate(root, list);
 
         int[] ans = new int[list.size()];
 
@@ -33,14 +33,14 @@ class Solution {
         return ans;
     }
 
-    void calculate(TreeNode node)
+    void calculate(TreeNode node, List<Integer> list)
     {
         if(node == null)
         {
             return;
         }
 
-        calculate(node.left);
+        calculate(node.left, list);
 
         if(node.val != currNum)
         {
@@ -64,6 +64,6 @@ class Solution {
             list.add(node.val);
         }
 
-        calculate(node.right);
+        calculate(node.right, list);
     }
 }

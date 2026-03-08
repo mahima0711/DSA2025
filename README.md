@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mahima0711/DSA2025/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mahima0711/DSA2025/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mahima0711/DSA2025/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/mahima0711/DSA2025/tree/master/2938-separate-black-and-white-balls) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mahima0711/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/mahima0711/DSA2025/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |
+| [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Memoization
 |  |

@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mahima0711/DSA2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/mahima0711/DSA2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mahima0711/DSA2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/mahima0711/DSA2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Quickselect
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mahima0711/DSA2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/mahima0711/DSA2025/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/mahima0711/DSA2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking

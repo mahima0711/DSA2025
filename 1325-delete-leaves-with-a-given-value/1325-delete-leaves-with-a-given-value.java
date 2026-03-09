@@ -16,8 +16,6 @@
 class Solution {
     public TreeNode removeLeafNodes(TreeNode root, int target) {
 
-        TreeNode node = root;
-
         TreeNode n = deleteHelper(root, target);
 
         return n;

@@ -15,29 +15,29 @@
  */
 class Solution {
 
-    Map<String, Integer> map = new HashMap<>();
+    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
     List<TreeNode> ans = new ArrayList<>();
 
-    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
-        
         if(root == null)
         {
             return ans;
         }
 
-        findDup(root);
+        Map<String, Integer> map = new HashMap<>();
+
+        findDup(root, map, ans);
 
         return ans;
     }
 
-    String findDup(TreeNode root)
+    String findDup(TreeNode root, Map<String, Integer> map, List<TreeNode> ans)
     {
         if(root == null)
         {
             return "N";
         }
 
-        String s = String.valueOf(root.val) +", " + findDup(root.left) +", "+ findDup(root.right);
+        String s = String.valueOf(root.val) +", " + findDup(root.left, map, ans) +", "+ findDup(root.right, map, ans);
 
         if(map.containsKey(s) && map.get(s) == 1)
         {

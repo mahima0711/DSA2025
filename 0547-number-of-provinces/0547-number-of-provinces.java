@@ -1,25 +1,14 @@
 class Solution {
+    int V;
     public int findCircleNum(int[][] isConnected) {
 
-        int V = isConnected.length;
+        V= isConnected.length;
 
         if (V == 0) {
             return 0;
         }
 
         List<List<Integer>> adj = new ArrayList<>();
-
-        for (int i = 0; i < V; i++) {
-            adj.add(new ArrayList<>());
-        }
-        // build adjacency list from matrix
-        for (int i = 0; i < V; i++) {
-            for (int j = 0; j < V; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    adj.get(i).add(j);
-                }
-            }
-        }
 
         boolean[] visited = new boolean[V];
 
@@ -28,7 +17,7 @@ class Solution {
         for (int i = 0; i < V; i++) {
             if (!visited[i]) {
                 countProvince++;
-                dfs(adj, i, visited);
+                dfs(isConnected, i, visited);
             }
 
         }
@@ -36,12 +25,12 @@ class Solution {
         return countProvince;
     }
 
-    void dfs(List<List<Integer>> adj, int u, boolean[] visited) {
+    void dfs(int[][] isConnected, int u, boolean[] visited) {
         visited[u] = true;
 
-        for (int v : adj.get(u)) {
-            if (!visited[v]) {
-                dfs(adj, v, visited);
+        for (int v=0; v < V ;v++) {
+            if (!visited[v] && isConnected[u][v] == 1) {
+                dfs(isConnected, v, visited);
             }
         }
     }

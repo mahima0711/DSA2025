@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mahima0711/DSA2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/mahima0711/DSA2025/tree/master/0652-find-duplicate-subtrees) |
+| [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |

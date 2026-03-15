@@ -6,45 +6,43 @@ class Solution {
         for (int i = 0; i < numCourses; i++) 
             adj.add(new ArrayList<>());
 
-        int inDegree[] = new int[numCourses];
-
         for(int p[] : prerequisites)
         {
             adj.get(p[1]).add(p[0]);
-            inDegree[p[0]]++;
         }
 
-        Queue<Integer> que = new LinkedList<>();
+        boolean visited[] = new boolean[numCourses];
+        boolean isRecursion[] = new boolean[numCourses];
 
-        int count=0;
-
-        for(int i=0;i<numCourses;i++)
+        for(int i=0;i< numCourses ;i++)
         {
-            if(inDegree[i] == 0)
+            if(!visited[i] && isCycleDFS(adj, i, visited, isRecursion))
             {
-                que.offer(i);
+                return false;
             }
         }
 
-        while(!que.isEmpty())
+        return true;
+    }
+
+    boolean isCycleDFS(List<List<Integer>> adj, int u, boolean[] visited, boolean[] isRecursion)
+    {
+        visited[u] = true;
+        isRecursion[u] =true;
+
+        for(int v : adj.get(u))
         {
-            int curr = que.poll();
-            count++;
-
-            for(int v : adj.get(curr))
+            if(!visited[v] && isCycleDFS(adj, v, visited, isRecursion))
             {
-                inDegree[v]--;
-
-                if(inDegree[v] == 0)
-                {
-                    que.offer(v);
-                }
+                return true;
+            }
+            else if(isRecursion[v])
+            {
+                return true;
             }
         }
 
-        if(count == numCourses)
-           return true;
-
+        isRecursion[u] = false;
         return false;
     }
 

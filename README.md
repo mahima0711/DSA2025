@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahima0711/DSA2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/mahima0711/DSA2025/tree/master/1539-kth-missing-positive-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [1598-crawler-log-folder](https://github.com/mahima0711/DSA2025/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mahima0711/DSA2025/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mahima0711/DSA2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
@@ -943,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

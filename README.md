@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mahima0711/DSA2025/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mahima0711/DSA2025/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |

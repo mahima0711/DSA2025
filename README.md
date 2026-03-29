@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/mahima0711/DSA2025/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mahima0711/DSA2025/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mahima0711/DSA2025/tree/master/0724-find-pivot-index) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mahima0711/DSA2025/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/mahima0711/DSA2025/tree/master/0994-rotting-oranges) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/mahima0711/DSA2025/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/mahima0711/DSA2025/tree/master/0652-find-duplicate-subtrees) |
+| [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
@@ -940,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |

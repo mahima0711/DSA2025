@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mahima0711/DSA2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mahima0711/DSA2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Backtracking
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |

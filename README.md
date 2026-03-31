@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mahima0711/DSA2025/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mahima0711/DSA2025/tree/master/1020-number-of-enclaves) |

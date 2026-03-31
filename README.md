@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mahima0711/DSA2025/tree/master/0938-range-sum-of-bst) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mahima0711/DSA2025/tree/master/0994-rotting-oranges) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 ## Minimum Spanning Tree
 |  |
 | ------- |

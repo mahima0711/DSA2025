@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mahima0711/DSA2025/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mahima0711/DSA2025/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/mahima0711/DSA2025/tree/master/2938-separate-black-and-white-balls) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mahima0711/DSA2025/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2402-meeting-rooms-iii](https://github.com/mahima0711/DSA2025/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mahima0711/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2402-meeting-rooms-iii](https://github.com/mahima0711/DSA2025/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mahima0711/DSA2025/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mahima0711/DSA2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -1003,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Minimum Spanning Tree
 |  |
 | ------- |

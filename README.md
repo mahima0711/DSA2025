@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mahima0711/DSA2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sliding Window
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
+| [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Minimum Spanning Tree
 |  |

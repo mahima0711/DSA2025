@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahima0711/DSA2025/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahima0711/DSA2025/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahima0711/DSA2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/mahima0711/DSA2025/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1405-longest-happy-string](https://github.com/mahima0711/DSA2025/tree/master/1405-longest-happy-string) |
+| [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mahima0711/DSA2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |

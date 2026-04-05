@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
+| [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mahima0711/DSA2025/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahima0711/DSA2025/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
+| [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |

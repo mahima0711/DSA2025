@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/mahima0711/DSA2025/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/mahima0711/DSA2025/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/mahima0711/DSA2025/tree/master/1584-min-cost-to-connect-all-points) |
 | [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/mahima0711/DSA2025/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/mahima0711/DSA2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/mahima0711/DSA2025/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2097-valid-arrangement-of-pairs](https://github.com/mahima0711/DSA2025/tree/master/2097-valid-arrangement-of-pairs) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/mahima0711/DSA2025/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mahima0711/DSA2025/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/mahima0711/DSA2025/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mahima0711/DSA2025/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1034,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/mahima0711/DSA2025/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Minimum Spanning Tree

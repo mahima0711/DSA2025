@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahima0711/DSA2025/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mahima0711/DSA2025/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mahima0711/DSA2025/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/mahima0711/DSA2025/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mahima0711/DSA2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -992,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mahima0711/DSA2025/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mahima0711/DSA2025/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mahima0711/DSA2025/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mahima0711/DSA2025/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |

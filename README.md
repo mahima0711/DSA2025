@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mahima0711/DSA2025/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/mahima0711/DSA2025/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mahima0711/DSA2025/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mahima0711/DSA2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/mahima0711/DSA2025/tree/master/0605-can-place-flowers) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahima0711/DSA2025/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mahima0711/DSA2025/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mahima0711/DSA2025/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mahima0711/DSA2025/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |

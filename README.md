@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mahima0711/DSA2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mahima0711/DSA2025/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mahima0711/DSA2025/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/mahima0711/DSA2025/tree/master/0224-basic-calculator) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |

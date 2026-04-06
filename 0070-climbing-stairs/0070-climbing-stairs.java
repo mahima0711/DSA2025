@@ -1,20 +1,19 @@
 class Solution {
-
-    int[] dp = new int[46];
-
     public int climbStairs(int n) {
-        Arrays.fill(dp, -1);
 
-        dp[0] = 0;
-        dp[1] = 1;
-        dp[2] = 2;
+        if(n == 1) return 1;
+        int a = 1;
+        int b = 2;
 
         for(int i=3; i<=n ;i++)
         {
-            dp[i] = dp[i-1] + dp[i-2];
+            int c = a + b;
+
+            a = b;
+            b = c;
         }
 
-        return dp[n];
+        return b;
     }
 
 }

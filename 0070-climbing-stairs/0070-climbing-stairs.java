@@ -3,21 +3,19 @@ class Solution {
     int[] dp = new int[46];
 
     public int climbStairs(int n) {
-            Arrays.fill(dp, -1);
-            return calculate(n, dp);
-    }
+        Arrays.fill(dp, -1);
 
-    int calculate(int n, int[] dp)
-    {
-        if(n < 0) return 0;
+        dp[0] = 0;
+        dp[1] = 1;
+        dp[2] = 2;
+        dp[3] = 3;
 
-        if(n == 0)
+        for(int i=4; i<=n ;i++)
         {
-            return 1;
+            dp[i] = dp[i-1] + dp[i-2];
         }
 
-        if(dp[n] != -1) return dp[n];
-
-        return dp[n] = calculate(n-1, dp) + calculate(n-2, dp);
+        return dp[n];
     }
+
 }

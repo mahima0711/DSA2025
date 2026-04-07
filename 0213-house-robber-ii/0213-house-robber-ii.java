@@ -1,41 +1,37 @@
 class Solution {
 
-    int ans = 0;
-    int dp[] = new int[101];
-
     public int rob(int[] nums) {
-
         int n = nums.length;
 
-        if(n == 1) return nums[0];
+        // Edge case
+        if (n == 1) return nums[0];
 
-        if(n==2) return Math.max(nums[0], nums[1]);
+        // Case 1: rob from 0 → n-2
+        int case1 = robRange(nums, 0, n - 2);
 
-        Arrays.fill(dp, -1);
+        // Case 2: rob from 1 → n-1
+        int case2 = robRange(nums, 1, n - 1);
 
-        int take_0th_house = solve(nums, 0, n-2);
-        
-        Arrays.fill(dp, -1);
-
-        int take_nth_house = solve(nums, 1, n-1);
-
-        return Math.max(take_0th_house, take_nth_house);
-
+        return Math.max(case1, case2);
     }
 
-    int solve(int[] nums, int i, int n)
-    {
-        if(i > n ) return 0;
+    // Bottom-up DP using array
+    private int robRange(int[] nums, int start, int end) {
 
-        if(dp[i] != -1)
-        {
-            return dp[i];
+        int len = end - start + 1;
+        int[] dp = new int[len + 1];
+
+        dp[0] = 0; // no house
+        dp[1] = nums[start]; // first house in this range
+
+        for (int i = 2; i <= len; i++) {
+
+            int skip = dp[i - 1];
+            int steal = nums[start + i - 1] + dp[i - 2];
+
+            dp[i] = Math.max(skip, steal);
         }
 
-        int steal = nums[i] + solve(nums, i+2, n);
-
-        int skip = solve(nums, i+1, n);
-
-        return dp[i] = Math.max(steal, skip);
+        return dp[len];
     }
 }

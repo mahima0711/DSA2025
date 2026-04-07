@@ -19,19 +19,19 @@ class Solution {
     private int robRange(int[] nums, int start, int end) {
 
         int len = end - start + 1;
-        int[] dp = new int[len + 1];
 
-        dp[0] = 0; // no house
-        dp[1] = nums[start]; // first house in this range
+        int p1 = 0; // no house
+        int p2 = nums[start]; // first house in this range
 
         for (int i = 2; i <= len; i++) {
 
-            int skip = dp[i - 1];
-            int steal = nums[start + i - 1] + dp[i - 2];
+            int skip = p2;
+            int steal = nums[start + i - 1] + p1;
 
-            dp[i] = Math.max(skip, steal);
+            p1 = p2;
+            p2 = Math.max(skip, steal);
         }
 
-        return dp[len];
+        return p2;
     }
 }

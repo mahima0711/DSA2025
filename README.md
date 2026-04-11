@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/mahima0711/DSA2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/mahima0711/DSA2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/mahima0711/DSA2025/tree/master/2050-parallel-courses-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/mahima0711/DSA2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |

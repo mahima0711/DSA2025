@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mahima0711/DSA2025/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mahima0711/DSA2025/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahima0711/DSA2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/mahima0711/DSA2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mahima0711/DSA2025/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mahima0711/DSA2025/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahima0711/DSA2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/mahima0711/DSA2025/tree/master/1925-count-square-sum-triples) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mahima0711/DSA2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahima0711/DSA2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |

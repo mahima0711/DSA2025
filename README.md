@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/mahima0711/DSA2025/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/mahima0711/DSA2025/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mahima0711/DSA2025/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/mahima0711/DSA2025/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahima0711/DSA2025/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mahima0711/DSA2025/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/mahima0711/DSA2025/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahima0711/DSA2025/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/mahima0711/DSA2025/tree/master/1094-car-pooling) |
+| [1732-find-the-highest-altitude](https://github.com/mahima0711/DSA2025/tree/master/1732-find-the-highest-altitude) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mahima0711/DSA2025/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mahima0711/DSA2025/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mahima0711/DSA2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |

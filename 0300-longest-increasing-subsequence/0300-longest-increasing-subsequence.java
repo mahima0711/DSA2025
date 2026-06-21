@@ -4,21 +4,43 @@ class Solution {
 
     public int lengthOfLIS(int[] nums) {
 
-        int[] dp = new int[nums.length];
-        int len = 0;
+         int n = nums.length;
+        List<Integer> sorted = new ArrayList<>();
 
-        for (int x : nums) {
-            int i = Arrays.binarySearch(dp, 0, len, x);
-            if (i < 0) {
-                i = -(i + 1);
-            }
-            dp[i] = x;
-            if (i == len)
-                len++;
+        for (int i = 0; i < n; i++) {
+            /*
+                Why lower bound?
+                We want an increasing subsequence, and hence
+                we want to eliminate the duplicates as well.
+                lower_bound returns the index of "next greater or equal to."
+            */
+            int index = binarySearch(sorted, nums[i]);
+
+            if (index == sorted.size())
+                sorted.add(nums[i]); // greatest: so insert it
+            else
+                sorted.set(index, nums[i]); // replace
         }
 
-        return len;
+        return sorted.size();
 
+    }
+
+     private int binarySearch(List<Integer> sorted, int target) {
+        int left = 0, right = sorted.size();
+        int result = sorted.size();
+        
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            
+            if (sorted.get(mid) < target) {
+                left = mid + 1;
+            } else {
+                result = mid;
+                right = mid;
+            }
+        }
+        return result;
     }
 
 }

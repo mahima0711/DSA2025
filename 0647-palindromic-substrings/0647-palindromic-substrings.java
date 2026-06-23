@@ -7,7 +7,7 @@ class Solution {
 
         int count = 0;
 
-        dp = new boolean[1001][1001];
+        dp = new boolean[n][n];
 
         for (int L = 1; L <= n; L++) {
             for (int i = 0; i+L-1 < n; i++) {

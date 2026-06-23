@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/mahima0711/DSA2025/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mahima0711/DSA2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/mahima0711/DSA2025/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/mahima0711/DSA2025/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mahima0711/DSA2025/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/mahima0711/DSA2025/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mahima0711/DSA2025/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/mahima0711/DSA2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/mahima0711/DSA2025/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/mahima0711/DSA2025/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mahima0711/DSA2025/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |

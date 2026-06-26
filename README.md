@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mahima0711/DSA2025/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mahima0711/DSA2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mahima0711/DSA2025/tree/master/0069-sqrtx) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahima0711/DSA2025/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/mahima0711/DSA2025/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mahima0711/DSA2025/tree/master/0062-unique-paths) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mahima0711/DSA2025/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Rolling Hash
 |  |

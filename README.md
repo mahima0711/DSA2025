@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mahima0711/DSA2025/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/mahima0711/DSA2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mahima0711/DSA2025/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/mahima0711/DSA2025/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/mahima0711/DSA2025/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mahima0711/DSA2025/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mahima0711/DSA2025/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/mahima0711/DSA2025/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mahima0711/DSA2025/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/mahima0711/DSA2025/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mahima0711/DSA2025/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mahima0711/DSA2025/tree/master/0200-number-of-islands) |

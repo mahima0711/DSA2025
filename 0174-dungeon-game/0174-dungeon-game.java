@@ -1,49 +1,51 @@
 class Solution {
 
     int dp[][];
+
     public int calculateMinimumHP(int[][] dungeon) {
-        
+
         int m = dungeon.length;
         int n = dungeon[0].length;
 
         dp = new int[201][201];
 
-        for(int i=0;i<201;i++)
-        {
+        for (int i = 0; i < 201; i++) {
             Arrays.fill(dp[i], -1);
         }
 
-        return solve(0, 0,m, n, dungeon);
-    }
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (i == m - 1 && j == n - 1) {
+                    if (dungeon[i][j] > 0) {
+                        dp[i][j] = 1;
+                    } else {
+                        dp[i][j] = Math.abs(dungeon[i][j]) + 1;
+                    }
+                    continue;
+                }
 
-    int solve(int i, int j, int m, int n, int[][] dungeon)
-    {
-        if(i >= m || j>= n)
-        {
-            return Integer.MAX_VALUE;
-        }
+                int right = 0;
+                int down = 0;
 
-        if(dp[i][j] != -1)
-        {
-            return dp[i][j];
-        }
+                if (j + 1 >= n) {
+                    right = Integer.MAX_VALUE;
+                } else {
+                    right = dp[i][j + 1];
+                }
 
-        if(i == m-1 && j == n-1)
-        {
-            if(dungeon[i][j] > 0)
-            {
-                return 1;
+                if (i + 1 >= m) {
+                    down = Integer.MAX_VALUE;
+                } else {
+                    down = dp[i + 1][j];
+                }
+
+                int result = Math.min(right, down) - dungeon[i][j];
+
+                dp[i][j] = result > 0 ? result : 1;
             }
-
-            return Math.abs(dungeon[i][j]) + 1;
         }
 
-        int right = solve(i, j+1, m, n, dungeon);
-
-        int down = solve(i+1, j, m, n, dungeon);
-
-        int result = Math.min(down, right) - dungeon[i][j];
-
-        return dp[i][j] = result > 0 ? result : 1;
+        return dp[0][0];
     }
+
 }

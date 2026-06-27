@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/mahima0711/DSA2025/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mahima0711/DSA2025/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/mahima0711/DSA2025/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/mahima0711/DSA2025/tree/master/0503-next-greater-element-ii) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mahima0711/DSA2025/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mahima0711/DSA2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/mahima0711/DSA2025/tree/master/0647-palindromic-substrings) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/mahima0711/DSA2025/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/mahima0711/DSA2025/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/mahima0711/DSA2025/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/mahima0711/DSA2025/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |

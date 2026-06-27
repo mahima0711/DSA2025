@@ -1,18 +1,18 @@
 class Solution {
 
-    // int dp[][];
+    int dp[][];
 
     public int findTargetSumWays(int[] nums, int target) {
 
         int n = nums.length;
 
-        // dp = new int[21][21];
+        dp = new int[21][2001];
 
         int sum = 0;
 
-        // for (int i = 0; i < n; i++) {
-        //     Arrays.fill(dp[i], -1);
-        // }
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
 
         return solve(nums, target, n, 0, sum);
     }
@@ -22,10 +22,13 @@ class Solution {
             return sum == target ? 1 : 0;
         }
 
+        if (dp[i][sum + 1000] != -1) {
+            return dp[i][sum + 1000];
+        }
         int plus = solve(nums, target, n, i + 1, sum + nums[i]);
 
         int minus = solve(nums, target, n, i + 1, sum - nums[i]);
 
-        return plus + minus;
+        return dp[i][sum + 1000] = plus + minus;
     }
 }

@@ -21,10 +21,10 @@ class Solution {
                     } else {
                         dp[i][j] = Math.abs(dungeon[i][j]) + 1;
                     }
-                    continue;
                 }
-
-                int right = 0;
+                else
+                {
+                      int right = 0;
                 int down = 0;
 
                 if (j + 1 >= n) {
@@ -42,6 +42,8 @@ class Solution {
                 int result = Math.min(right, down) - dungeon[i][j];
 
                 dp[i][j] = result > 0 ? result : 1;
+                }
+
             }
         }
 

@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mahima0711/DSA2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/mahima0711/DSA2025/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mahima0711/DSA2025/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/mahima0711/DSA2025/tree/master/0457-circular-array-loop) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/mahima0711/DSA2025/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mahima0711/DSA2025/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mahima0711/DSA2025/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |

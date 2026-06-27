@@ -6,12 +6,12 @@ class Solution {
 
         int n = nums.length;
 
-        dp = new int[21][2001];
+        dp = new int[n][2001];
 
         int sum = 0;
 
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        for (int i=0;i<n;i++) {
+            Arrays.fill(dp[i], -1);
         }
 
         return solve(nums, target, n, 0, sum);

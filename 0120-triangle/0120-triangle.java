@@ -7,25 +7,23 @@ class Solution {
 
         dp = new Integer[n][n];
 
-        // for(int i=0;i<n;i++)
-        // {
-        //     Arrays.fill(dp[i], -1);
-        // }
-
-        return solve(triangle, 0, 0, n);
-    }
-
-    int solve(List<List<Integer>> triangle, int i, int j, int n) {
-        if (i == n - 1) {
-            return triangle.get(i).get(j);
+        //last row
+        for (int j = 0; j < n; j++) {
+            dp[n - 1][j] = triangle.get(n - 1).get(j);
         }
 
-        if (dp[i][j] != null)
-            return dp[i][j];
+        // Bottom to top
+        for (int i = n - 2; i >= 0; i--) {
 
-        int down = solve(triangle, i + 1, j, n);
-        int diagonal = solve(triangle, i + 1, j + 1, n);
+            for (int j = 0; j <= i; j++) {
 
-        return dp[i][j] = triangle.get(i).get(j) + Math.min(down, diagonal);
+                dp[i][j] = triangle.get(i).get(j)
+                        + Math.min(dp[i + 1][j],
+                                dp[i + 1][j + 1]);
+            }
+        }
+
+        return dp[0][0];
     }
+
 }

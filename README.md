@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahima0711/DSA2025/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mahima0711/DSA2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/mahima0711/DSA2025/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mahima0711/DSA2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mahima0711/DSA2025/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/mahima0711/DSA2025/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/mahima0711/DSA2025/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/mahima0711/DSA2025/tree/master/0174-dungeon-game) |

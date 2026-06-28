@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mahima0711/DSA2025/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/mahima0711/DSA2025/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mahima0711/DSA2025/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mahima0711/DSA2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mahima0711/DSA2025/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/mahima0711/DSA2025/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mahima0711/DSA2025/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mahima0711/DSA2025/tree/master/0416-partition-equal-subset-sum) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mahima0711/DSA2025/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mahima0711/DSA2025/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/mahima0711/DSA2025/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mahima0711/DSA2025/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mahima0711/DSA2025/tree/master/0530-minimum-absolute-difference-in-bst) |

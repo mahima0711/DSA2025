@@ -6,19 +6,32 @@ class Solution {
 
     public int maximalSquare(char[][] matrix) {
 
+       
         int m = matrix.length;
         int n = matrix[0].length;
 
-        dp = new int[m][n];
+        int[][] dp = new int[m][n];
+
+        int maxSide = 0;
 
         for (int i = 0; i < m; i++) {
-            Arrays.fill(dp[i], -1);
-        }
 
-        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
-                maxSide = Math.max(maxSide, solve(matrix, i, j, m, n));
+                if (matrix[i][j] == '1') {
+
+                    if (i == 0 || j == 0) {
+                        dp[i][j] = 1;
+                    } else {
+
+                        dp[i][j] = 1 + Math.min(
+                                dp[i-1][j],
+                                Math.min(dp[i][j-1], dp[i-1][j-1])
+                        );
+                    }
+
+                    maxSide = Math.max(maxSide, dp[i][j]);
+                }
             }
         }
 
@@ -26,27 +39,5 @@ class Solution {
 
     }
 
-    int solve(char[][] arr, int i, int j, int m, int n) {
-        if (i >= m || j >= n) {
-            return 0;
-        }
 
-        if (arr[i][j] == '0') {
-            return 0;
-        }
-
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        int right = solve(arr, i, j + 1, m, n);
-
-        int dia = solve(arr, i + 1, j + 1, m, n);
-
-        int down = solve(arr, i + 1, j, m, n);
-
-        int ans = 1 + Math.min(right, Math.min(dia, down));
-
-        return dp[i][j] = ans;
-    }
 }

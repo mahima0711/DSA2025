@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mahima0711/DSA2025/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/mahima0711/DSA2025/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mahima0711/DSA2025/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/mahima0711/DSA2025/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahima0711/DSA2025/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/mahima0711/DSA2025/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/mahima0711/DSA2025/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/mahima0711/DSA2025/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mahima0711/DSA2025/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mahima0711/DSA2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahima0711/DSA2025/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/mahima0711/DSA2025/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/mahima0711/DSA2025/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/mahima0711/DSA2025/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mahima0711/DSA2025/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mahima0711/DSA2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mahima0711/DSA2025/tree/master/1594-maximum-non-negative-product-in-a-matrix) |

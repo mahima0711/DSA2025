@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mahima0711/DSA2025/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima0711/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mahima0711/DSA2025/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/mahima0711/DSA2025/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/mahima0711/DSA2025/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mahima0711/DSA2025/tree/master/0322-coin-change) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/mahima0711/DSA2025/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/mahima0711/DSA2025/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mahima0711/DSA2025/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/mahima0711/DSA2025/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mahima0711/DSA2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/mahima0711/DSA2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mahima0711/DSA2025/tree/master/0322-coin-change) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/mahima0711/DSA2025/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/mahima0711/DSA2025/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/mahima0711/DSA2025/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/mahima0711/DSA2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/mahima0711/DSA2025/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/mahima0711/DSA2025/tree/master/0695-max-area-of-island) |

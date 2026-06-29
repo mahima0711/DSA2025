@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mahima0711/DSA2025/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/mahima0711/DSA2025/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mahima0711/DSA2025/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/mahima0711/DSA2025/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/mahima0711/DSA2025/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mahima0711/DSA2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mahima0711/DSA2025/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mahima0711/DSA2025/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mahima0711/DSA2025/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/mahima0711/DSA2025/tree/master/2018-check-if-word-can-be-placed-in-crossword) |

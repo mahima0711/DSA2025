@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mahima0711/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mahima0711/DSA2025/tree/master/0868-binary-gap) |
 | [0980-unique-paths-iii](https://github.com/mahima0711/DSA2025/tree/master/0980-unique-paths-iii) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mahima0711/DSA2025/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mahima0711/DSA2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mahima0711/DSA2025/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mahima0711/DSA2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |

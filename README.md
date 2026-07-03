@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mahima0711/DSA2025/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahima0711/DSA2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mahima0711/DSA2025/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/mahima0711/DSA2025/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mahima0711/DSA2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mahima0711/DSA2025/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mahima0711/DSA2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mahima0711/DSA2025/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/mahima0711/DSA2025/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mahima0711/DSA2025/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mahima0711/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mahima0711/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

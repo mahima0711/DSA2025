@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mahima0711/DSA2025/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/mahima0711/DSA2025/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mahima0711/DSA2025/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/mahima0711/DSA2025/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahima0711/DSA2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mahima0711/DSA2025/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahima0711/DSA2025/tree/master/0918-maximum-sum-circular-subarray) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mahima0711/DSA2025/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mahima0711/DSA2025/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mahima0711/DSA2025/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/mahima0711/DSA2025/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mahima0711/DSA2025/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mahima0711/DSA2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mahima0711/DSA2025/tree/master/0868-binary-gap) |

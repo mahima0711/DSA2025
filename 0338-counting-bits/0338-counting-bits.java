@@ -6,9 +6,12 @@ class Solution {
         for (int i = 1; i <= n; i++) {
             int num = i;
 
-            while (num != 0) {
-                ans[i] += (num & 1);
-                num >>= 1;
+            if(num%2 == 0)
+            {
+                ans[i] = ans[i/2];
+            }else
+            {
+                ans[i] = ans[i/2]+1;
             }
         }
         return ans;

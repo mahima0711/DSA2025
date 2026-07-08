@@ -7,7 +7,7 @@ class Solution {
             return false;
         }
 
-        Map<Integer, Integer> map = new TreeMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < n; i++) {
             map.put(hand[i], map.getOrDefault(hand[i], 0) + 1);

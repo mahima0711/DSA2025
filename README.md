@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahima0711/DSA2025/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mahima0711/DSA2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/mahima0711/DSA2025/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1905-count-sub-islands](https://github.com/mahima0711/DSA2025/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/mahima0711/DSA2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mahima0711/DSA2025/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mahima0711/DSA2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1792-maximum-average-pass-ratio](https://github.com/mahima0711/DSA2025/tree/master/1792-maximum-average-pass-ratio) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mahima0711/DSA2025/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/mahima0711/DSA2025/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mahima0711/DSA2025/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mahima0711/DSA2025/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mahima0711/DSA2025/tree/master/2078-two-furthest-houses-with-different-colors) |

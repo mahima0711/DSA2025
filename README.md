@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mahima0711/DSA2025/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mahima0711/DSA2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/mahima0711/DSA2025/tree/master/0746-min-cost-climbing-stairs) |
+| [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahima0711/DSA2025/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/mahima0711/DSA2025/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/mahima0711/DSA2025/tree/master/0875-koko-eating-bananas) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/mahima0711/DSA2025/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mahima0711/DSA2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mahima0711/DSA2025/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mahima0711/DSA2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/mahima0711/DSA2025/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/mahima0711/DSA2025/tree/master/0973-k-closest-points-to-origin) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/mahima0711/DSA2025/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/mahima0711/DSA2025/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mahima0711/DSA2025/tree/master/0953-verifying-an-alien-dictionary) |

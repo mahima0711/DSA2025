@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mahima0711/DSA2025/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/mahima0711/DSA2025/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/mahima0711/DSA2025/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/mahima0711/DSA2025/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/mahima0711/DSA2025/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/mahima0711/DSA2025/tree/master/0881-boats-to-save-people) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mahima0711/DSA2025/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/mahima0711/DSA2025/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/mahima0711/DSA2025/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/mahima0711/DSA2025/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/mahima0711/DSA2025/tree/master/0844-backspace-string-compare) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mahima0711/DSA2025/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/mahima0711/DSA2025/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mahima0711/DSA2025/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/mahima0711/DSA2025/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mahima0711/DSA2025/tree/master/0860-lemonade-change) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mahima0711/DSA2025/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/mahima0711/DSA2025/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/mahima0711/DSA2025/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/mahima0711/DSA2025/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mahima0711/DSA2025/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mahima0711/DSA2025/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mahima0711/DSA2025/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
